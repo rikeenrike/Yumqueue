@@ -1,0 +1,21 @@
+{
+    "folder": [{
+            "firstname": "Ralph Kris",
+            "password": "1",
+            "id": "1",
+            "username": "rap2",
+            "lastname": "Enrique"
+        }, {
+            "firstname": "Samantha",
+            "password": "1",
+            "id": "2",
+            "username": "haven",
+            "lastname": "De Guzman"
+        }, {
+            "firstname": "su",
+            "password": "hehehe",
+            "id": "3",
+            "username": "duremi",
+            "lastname": "ko"
+        }]
+}
